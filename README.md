@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bruno or MRJackFrost</h1>
+<h1 align="center">Hi 👋, I'm Bruno or PierrotNobre</h1>
 <h3 align="center">A passionate Gamedev from Brasil</h3>
 
 - 🔭 I'm love to work with **Unity**
